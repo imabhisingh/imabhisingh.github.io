@@ -28,21 +28,21 @@
     {
       "ad_network": "AppLovin",
       "unit_type": "Banner",
-      "placement_id": "",
-      "priority": "0"
+      "placement_id": "4357047d18431129",
+      "priority": "1"
     },
     {
       "ad_network": "AppLovin",
       "unit_type": "Interstitial",
-      "placement_id": "",
-      "priority": "0",
-      "counter": "1"
+      "placement_id": "e9784677f18a4825",
+      "priority": "1",
+      "counter": "2"
     },
     {
       "ad_network": "AppLovin",
       "unit_type": "Native",
-      "placement_id": "",
-      "priority": "0"
+      "placement_id": "12341be57e1b9cec",
+      "priority": "1"
     },
     {
       "ad_network": "Meta",
