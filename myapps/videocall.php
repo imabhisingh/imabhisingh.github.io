@@ -3,27 +3,27 @@
     {
       "ad_network": "Admob",
       "unit_type": "Banner",
-      "placement_id": "ca-app-pub-3940256099942544/6300978111",
-      "priority": "0"
+      "placement_id": "/21753324030,22810725888/com.girlstalk.freerandomchat.livevideocalling.randomvideocall_Banner",
+      "priority": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Interstitial",
-      "placement_id": "ca-app-pub-3940256099942544/1033173712",
-      "priority": "0",
+      "placement_id": "/21753324030,22810725888/com.girlstalk.freerandomchat.livevideocalling.randomvideocall_Interstitial",
+      "priority": "1",
       "counter": "2"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Native",
-      "placement_id": "ca-app-pub-3940256099942544/2247696110",
-      "priority": "0"
+      "placement_id": "/21753324030,22810725888/com.girlstalk.freerandomchat.livevideocalling.randomvideocall_Native",
+      "priority": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Appopen",
-      "placement_id": "ca-app-pub-3940256099942544/3419835294",
-      "priority": "0"
+      "placement_id": "/21753324030,22810725888/com.girlstalk.freerandomchat.livevideocalling.randomvideocall_AppOpen",
+      "priority": "1"
     },
     {
       "ad_network": "AppLovin",
@@ -48,20 +48,20 @@
       "ad_network": "Meta",
       "unit_type": "Banner",
       "placement_id": "1437156467134384_1437157163800981",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Meta",
       "unit_type": "Interstitial",
       "placement_id": "1437156467134384_1437157043800993",
-      "priority": "1",
+      "priority": "0",
       "counter": "3"
     },
     {
       "ad_network": "Meta",
       "unit_type": "Native",
       "placement_id": "1437156467134384_1437157233800974",
-      "priority": "1"
+      "priority": "0"
     }
   ],
   "info": [
